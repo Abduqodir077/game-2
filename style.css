@@ -35,6 +35,11 @@ body{
     font-size: 20px;
     border-radius: 20px;
     margin-top: 10px;
+    font-weight: 700;
+}
+
+.container #btn:hover{
+    color: red;
 }
 
 .container b{
